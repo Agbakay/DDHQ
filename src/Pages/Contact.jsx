@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../assets/Cnpontact.png";
+import image from "../assets/Contact.png";
 import image2 from "../assets/email.png";
 import image3 from "../assets/support.png";
 import image4 from "../assets/contact_.png";

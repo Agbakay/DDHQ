@@ -18,7 +18,6 @@ import image_22 from "../assets/Partners25.png";
 import image_23 from "../assets/Partners26.png";
 import image_24 from "../assets/Partners27.png";
 import image_25 from "../assets/Partners31.png";
-
 import Videoplayer from "../components/Videoplayer";
 import Review from "../components/Review";
 
