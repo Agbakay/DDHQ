@@ -71,7 +71,7 @@ const Footer = () => {
       {/*  */}
       {/*  */}
       <div className="bg-green-200 m-w-full text-center px-10 py-10">
-        <h1 className="md:w-2x1 text-center">
+        <h1 className="md:w-2x1 text-center lg:px-[25%] px-0 ">
           DDHQ is a mobile platform operated by DDHQ Technologies LLC, a
           U.S.-based company, under exclusive License from HQ1 Technologies
           Limited, the registered trademark owner of DDHQ in Nigeria
